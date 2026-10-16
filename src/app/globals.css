@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* PALETTE OPTION 2 : « Apothicaire Moderne & Sauge Naturelle » */
+:root {
+  --color-primary: #1B4332;           /* Vert Sauge Forêt Profond (Confiance, Médical, Naturel) */
+  --color-accent: #E05D44;            /* Terracotta / Corail doux (Action, Dynamisme, Chaleur) */
+  --color-accent-link: #C94A32;       /* Terracotta foncé (Survol, liens) */
+  --color-accent-soft: #FDF1EE;       /* Fond doux pêche/terracotta clair (Boutons d'ajout, pastilles) */
+  --color-page: #F8F9FA;              /* Fond de page perle épuré */
+  --color-card: #FFFFFF;              /* Cartes blanches lumineuses */
+  --color-mint: #D8EADF;              /* Section Sauge Pâle */
+  --color-lavender: #E2E7ED;          /* Section Gris/Bleu Ardoise Pâle */
+  --color-pale-green: #E3EFE8;        /* Section FAQ & Processus */
+  --color-newsletter: #DDEFE6;        /* Encadré Newsletter Sauge Douce */
+  --color-ink: #1A202C;               /* Titres et textes forts */
+  --color-body: #2D3748;              /* Corps de texte haute lisibilité */
+  --color-muted: #4A5568;             /* Textes secondaires */
+  --color-product-grey: #718096;      /* Conditionnements et sous-titres */
+  --color-star: #F59E0B;              /* Étoiles dorées chaudes */
+  --color-alert: #DC2626;             /* Alertes */
+  --color-info-bar: #E7F2EB;          /* Bandeaux de réassurance */
+  --color-track: #CBD5E1;             /* Rail de progression */
+  --color-dot: #94A3B8;               /* Points de palier */
+  --color-danger: #DC2626;            /* Liens suppression */
+  --color-trash: #EF4444;             /* Icône corbeille */
+  --color-muted-blue: #64748B;        /* Support client */
+  --color-menu-active-bg: #DDEFE6;    /* Méga-menu catégorie active */
+  --color-menu-active-text: #1B4332;  /* Méga-menu texte actif */
+  --color-menu-separator: #E2E8F0;    /* Séparateurs */
+  --color-menu-chevron: #334155;      /* Chevrons */
+}
+
+body {
+  background-color: var(--color-page);
+  color: var(--color-body);
+  font-family: var(--font-jakarta), 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Ensure all form controls strictly inherit Plus Jakarta Sans */
+input, select, textarea, button {
+  font-family: inherit;
+}
+
+/* Custom scrollbar for horizontal carousels */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

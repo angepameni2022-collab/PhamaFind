@@ -1,0 +1,413 @@
+{
+  "products": [
+    {
+      "id": "med-1",
+      "name": "Spasfon Lyoc 80 mg",
+      "description": "Douleurs spasmodiques de l'intestin, des voies biliaires - Dès 2 ans",
+      "packaging": "10 comprimés lyophilisats",
+      "price": 1600,
+      "image": "/images/products/spasfon.webp",
+      "rating": 4.9,
+      "reviewCount": 142,
+      "category": "medicaments",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "med-2",
+      "name": "Forlax 10 g sachet",
+      "description": "Constipation : laxatif osmotique pour adulte et enfant - Dès 8 ans",
+      "packaging": "20 sachets pour solution buvable",
+      "price": 3200,
+      "image": "/images/products/forlax.webp",
+      "rating": 4.8,
+      "reviewCount": 89,
+      "category": "medicaments",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "med-3",
+      "name": "Doliprane Tabs 1000 mg",
+      "description": "Douleur et fièvre chez l'adulte et l'enfant - Dès 50 kg",
+      "packaging": "8 comprimés sécables",
+      "price": 1200,
+      "image": "/images/products/doliprane.webp",
+      "rating": 5.0,
+      "reviewCount": 310,
+      "category": "medicaments",
+      "hasFrenchFlag": false
+    },
+    {
+      "id": "med-4",
+      "name": "Gaviscon sachet menthe",
+      "description": "Brûlures d'estomac, remontées acides gastro-œsophagiennes - Dès 12 ans",
+      "packaging": "24 sachets suspension buvable",
+      "price": 3200,
+      "image": "/images/products/gaviscon.webp",
+      "rating": 4.7,
+      "reviewCount": 65,
+      "category": "medicaments",
+      "hasFrenchFlag": false
+    },
+    {
+      "id": "med-5",
+      "name": "Econazole crème 1% Viatris",
+      "description": "Traitement efficace des mycoses cutanées et des plis à Douala",
+      "packaging": "Tube de 30 g",
+      "price": 1800,
+      "image": "/images/products/econazole.webp",
+      "rating": 4.9,
+      "reviewCount": 47,
+      "category": "medicaments",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "med-6",
+      "name": "Sédorrhoïde crème crise hémorroïdaire",
+      "description": "Crème rectale avec canule - Anti-inflammatoire et anesthésiante",
+      "packaging": "Tube de 30 g",
+      "price": 2600,
+      "image": "/images/products/sedorrhoide.webp",
+      "rating": 4.8,
+      "reviewCount": 38,
+      "category": "medicaments",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "med-7",
+      "name": "Citrate de Bétaïne UPSA 2 g Citron",
+      "description": "Digestion difficile, lourdeurs d'estomac après les repas",
+      "packaging": "20 comprimés effervescents",
+      "price": 2500,
+      "image": "/images/products/upsa-betaine.webp",
+      "rating": 4.9,
+      "reviewCount": 94,
+      "category": "medicaments",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "med-8",
+      "name": "Efferalgan 1000 mg effervescent",
+      "description": "Traitement symptomatique des douleurs modérées et de la fièvre",
+      "packaging": "8 comprimés effervescents",
+      "price": 1400,
+      "image": "/images/products/efferalgan.webp",
+      "rating": 4.8,
+      "reviewCount": 112,
+      "category": "medicaments",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "med-9",
+      "name": "Daflon 500 mg veinotonique",
+      "description": "Jambes lourdes, insuffisance veineuse et crise hémorroïdaire",
+      "packaging": "60 comprimés pelliculés",
+      "price": 6800,
+      "image": "/images/products/daflon.webp",
+      "rating": 4.9,
+      "reviewCount": 154,
+      "category": "medicaments",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "med-10",
+      "name": "Lysopaïne gorge menthe sans sucre",
+      "description": "Maux de gorge peu intenses et aphtes de l'adulte et enfant",
+      "packaging": "36 pastilles à sucer",
+      "price": 2200,
+      "image": "/images/products/lysopaine.webp",
+      "rating": 4.7,
+      "reviewCount": 51,
+      "category": "medicaments",
+      "hasFrenchFlag": false
+    },
+    {
+      "id": "med-11",
+      "name": "ZymaD 10 000 UI/ml Vitamine D",
+      "description": "Prévention et traitement de la carence en vitamine D",
+      "packaging": "Flacon compte-gouttes 10 ml",
+      "price": 1900,
+      "image": "/images/products/zymad.webp",
+      "rating": 5.0,
+      "reviewCount": 87,
+      "category": "medicaments",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "med-12",
+      "name": "Eludril Pro bain de bouche antiseptique",
+      "description": "Traitement d'appoint des affections buccales et gingivites",
+      "packaging": "Flacon de 500 ml",
+      "price": 3100,
+      "image": "/images/products/eludril.webp",
+      "rating": 4.9,
+      "reviewCount": 128,
+      "category": "medicaments",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "promo-1",
+      "name": "La Roche Posay Effaclar Duo+ M",
+      "description": "Imperfections sévères et récidivantes, boutons et marques post-acné",
+      "packaging": "Tube de 40 ml",
+      "price": 7500,
+      "originalPrice": 9000,
+      "tag": "-20%",
+      "image": "/images/products/effaclar.webp",
+      "rating": 4.9,
+      "reviewCount": 17,
+      "category": "promotions",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "promo-2",
+      "name": "Bioderma Atoderm huile de douche",
+      "description": "Nettoie, relipide, apaise les peaux sensibles, très sèches sous le climat tropical",
+      "packaging": "1 L | recharge 1 litre | 200 ml",
+      "price": 2950,
+      "originalPrice": 3950,
+      "pricePrefix": "À partir de",
+      "tag": "-25%",
+      "image": "/images/products/bioderma-atoderm.webp",
+      "rating": 4.7,
+      "reviewCount": 41,
+      "category": "promotions",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "promo-3",
+      "name": "Fleurs de Bach Rescue Spray Sérénité",
+      "description": "Sérénité au quotidien, gestion des moments de stress et d'angoisse",
+      "packaging": "Flacon spray 20 ml",
+      "price": 8600,
+      "originalPrice": 11500,
+      "tag": "-25%",
+      "image": "/images/products/fleurs-bach.webp",
+      "rating": 4.7,
+      "reviewCount": 25,
+      "category": "promotions",
+      "hasFrenchFlag": false
+    },
+    {
+      "id": "promo-4",
+      "name": "Marimer Nez bouché spray nasal",
+      "description": "Rhume et nez bouché - Lavage à l'eau de mer hypertonique stérile",
+      "packaging": "Spray 100 ml",
+      "price": 1900,
+      "originalPrice": 2550,
+      "tag": "-25%",
+      "image": "/images/products/marimer.webp",
+      "rating": 4.9,
+      "reviewCount": 11,
+      "category": "promotions",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "promo-5",
+      "name": "Physiolac Bio Céréales & Croissance",
+      "description": "Alimentation infantile biologique sans huile de palme pour bébé",
+      "packaging": "Boîte de 800 g",
+      "price": 7850,
+      "originalPrice": 9200,
+      "tag": "-15%",
+      "image": "/images/products/physiolac.webp",
+      "rating": 5.0,
+      "reviewCount": 18,
+      "category": "promotions",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "promo-6",
+      "name": "Dexeryl Crème lavante protectrice",
+      "description": "Nettoie en douceur le corps et apaise les tiraillements de toute la famille",
+      "packaging": "Flacon pompe 500 ml",
+      "price": 4200,
+      "originalPrice": 5200,
+      "tag": "-20%",
+      "image": "/images/products/dexeryl.webp",
+      "rating": 4.9,
+      "reviewCount": 82,
+      "category": "promotions",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "nouv-1",
+      "name": "Granions Créatine Monohydrate 3000 mg",
+      "description": "Mémoire, fonctions cognitives et récupération musculaire - Adulte",
+      "packaging": "Pilulier de 180 gélules",
+      "price": 13450,
+      "tag": "Nouveau",
+      "image": "/images/products/creatine.webp",
+      "rating": 4.9,
+      "reviewCount": 14,
+      "category": "nouveautes",
+      "hasFrenchFlag": false
+    },
+    {
+      "id": "nouv-2",
+      "name": "Dexeryl Gel Douche Hydratant",
+      "description": "Protège du dessèchement cutané, formule apaisante pour toute la famille",
+      "packaging": "200 ml | 500 ml",
+      "price": 2880,
+      "pricePrefix": "À partir de",
+      "tag": "1 cadeau",
+      "image": "/images/products/dexeryl.webp",
+      "rating": 4.5,
+      "reviewCount": 2,
+      "category": "nouveautes",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "nouv-3",
+      "name": "RevitaLash Advanced Sérum Cils",
+      "description": "Soin revitalisant fortifiant pour des cils visiblement plus denses et brillants",
+      "packaging": "2 ml | 3,5 ml",
+      "price": 47800,
+      "pricePrefix": "À partir de",
+      "tag": "Haut de gamme",
+      "image": "/images/products/revitalash.webp",
+      "rating": 4.9,
+      "reviewCount": 63,
+      "category": "nouveautes",
+      "hasFrenchFlag": false
+    },
+    {
+      "id": "nouv-4",
+      "name": "Melvita Eau Florale de Bleuet Bio",
+      "description": "Apaise, tonifie et défatigue immédiatement le contour des yeux gonflés",
+      "packaging": "Flacon spray 200 ml",
+      "price": 3900,
+      "originalPrice": 4600,
+      "tag": "-15%",
+      "image": "/images/products/melvita-bleuet.webp",
+      "rating": 4.8,
+      "reviewCount": 22,
+      "category": "nouveautes",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "nouv-5",
+      "name": "La Roche Posay Soin Purifiant Pores",
+      "description": "Correction intense des pores dilatés - Formule matifiante anti-brillance 24h",
+      "packaging": "Tube 40 ml",
+      "price": 6550,
+      "originalPrice": 7900,
+      "tag": "-15%",
+      "image": "/images/products/effaclar.webp",
+      "rating": 4.8,
+      "reviewCount": 19,
+      "category": "nouveautes",
+      "hasFrenchFlag": true
+    },
+    {
+      "id": "nouv-6",
+      "name": "Physiolac Bio Lait de suite 2ème âge",
+      "description": "Formule infantile équilibrée riche en fer et vitamines essentielles",
+      "packaging": "Boîte de 800 g",
+      "price": 8200,
+      "originalPrice": 9500,
+      "tag": "-15%",
+      "image": "/images/products/physiolac.webp",
+      "rating": 5.0,
+      "reviewCount": 11,
+      "category": "nouveautes",
+      "hasFrenchFlag": true
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "rating": 5,
+      "text": "\"Service incroyable à Douala ! J'ai pu trouver mon traitement pédiatrique introuvable dans 3 pharmacies en quelques clics, et le livreur est arrivé à Bonapriso en 40 minutes chrono.\"",
+      "author": "Marietherese Roy"
+    },
+    {
+      "id": "rev-2",
+      "rating": 5,
+      "text": "\"Extraordinaire 🥰 À la grâce de dieu, une plateforme avec des pharmaciens très professionnels, bienveillants, clairs et à l'écoute. La commande a été validée immédiatement sur WhatsApp.\"",
+      "author": "Martine-Marc Malledant-Aldou"
+    },
+    {
+      "id": "rev-3",
+      "rating": 5,
+      "text": "\"Je commande régulièrement via PhamaFind pour mes parents à Akwa. L'ordonnance est scrupuleusement vérifiée et le suivi de livraison en direct rassure énormément toute la famille. MERCI !\"",
+      "author": "J. DUPUIS"
+    },
+    {
+      "id": "rev-4",
+      "rating": 5,
+      "text": "\"Parfait ! J'ai utilisé la livraison express de nuit un dimanche. Médicaments scellés conformes, reçus en moins d'une heure avec paiement Orange Money à la livraison. Recommandé à 100%.\"",
+      "author": "Marjorie Dekens"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-med",
+      "label": "Médicaments",
+      "image": "/images/categories/med.webp"
+    },
+    {
+      "id": "cat-sante",
+      "label": "Santé",
+      "image": "/images/categories/sante.webp"
+    },
+    {
+      "id": "cat-hygiene",
+      "label": "Hygiène - Beauté",
+      "image": "/images/categories/hygiene.webp"
+    },
+    {
+      "id": "cat-bebe",
+      "label": "Bébé - Maternité",
+      "image": "/images/categories/bebe.webp"
+    },
+    {
+      "id": "cat-minceur",
+      "label": "Minceur - Sport",
+      "image": "/images/categories/sport.webp"
+    },
+    {
+      "id": "cat-veterinaire",
+      "label": "Vétérinaire",
+      "image": "/images/categories/vet.webp"
+    }
+  ],
+  "faq": [
+    {
+      "id": "faq-1",
+      "question": "Puis-je faire confiance à PhamaFind ?",
+      "answer": "Absolument. PhamaFind travaille exclusivement en partenariat direct avec des officines de pharmacie agréées par le Ministère de la Santé Publique et inscrites à l'Ordre National des Pharmaciens du Cameroun. Tous nos médicaments proviennent des circuits officiels certifiés, conservés dans le strict respect de la chaîne du froid et des normes de sécurité."
+    },
+    {
+      "id": "faq-2",
+      "question": "Un pharmacien vérifie-t-il ma commande ?",
+      "answer": "Oui, systématiquement. Toute demande contenant des médicaments ou une ordonnance est prise en charge et validée par un pharmacien diplômé avant la préparation du colis. Le pharmacien contrôle les posologies, les éventuelles interactions médicamenteuses et les contre-indications propres à votre profil de santé."
+    },
+    {
+      "id": "faq-3",
+      "question": "Pourquoi PhamaFind demande-t-elle des informations personnelles et de santé ?",
+      "answer": "Ces données sont strictement confidentielles et nécessaires pour assurer la sécurité de votre traitement : elles permettent à nos pharmaciens référents de vérifier l'adéquation du médicament avec l'âge, le poids ou d'éventuelles allergies, conformément à la déontologie pharmaceutique."
+    },
+    {
+      "id": "faq-4",
+      "question": "Comment se déroule ma commande ?",
+      "answer": "1. Vous saisissez le nom de votre médicament ou transmettez votre ordonnance en photo.\n2. Le pharmacien partenaire valide la disponibilité et prépare votre colis scellé.\n3. Notre coursier récupère le paquet à l'officine et vous livre à domicile ou au bureau en moins d'une heure dans tout Douala, avec paiement sécurisé (Orange Money, MTN MoMo ou espèces)."
+    }
+  ],
+  "partnerPharmacies": [
+    { "id": "ph-1", "name": "Pharmacie du Centre", "shortName": "Centre Akwa", "neighborhood": "Akwa" },
+    { "id": "ph-2", "name": "Pharmacie des Palmiers", "shortName": "Palmiers", "neighborhood": "Ndogbong" },
+    { "id": "ph-3", "name": "Pharmacie La Divine", "shortName": "La Divine", "neighborhood": "Bonamoussadi" },
+    { "id": "ph-4", "name": "Pharmacie de l'Aéroport", "shortName": "Aéroport", "neighborhood": "Bonapriso" },
+    { "id": "ph-5", "name": "Pharmacie de la Liberté", "shortName": "Liberté", "neighborhood": "Akwa" },
+    { "id": "ph-6", "name": "Pharmacie Saint-Pierre", "shortName": "Saint-Pierre", "neighborhood": "Deido" },
+    { "id": "ph-7", "name": "Pharmacie Sainte-Trinité", "shortName": "Ste-Trinité", "neighborhood": "Makepe" },
+    { "id": "ph-8", "name": "Pharmacie du Rond-Point", "shortName": "Rond-Point", "neighborhood": "Deido" },
+    { "id": "ph-9", "name": "Pharmacie de Kotto", "shortName": "Kotto", "neighborhood": "Kotto" },
+    { "id": "ph-10", "name": "Pharmacie de Bali", "shortName": "Bali", "neighborhood": "Bali" },
+    { "id": "ph-11", "name": "Pharmacie du Port", "shortName": "Port", "neighborhood": "Bonanjo" },
+    { "id": "ph-12", "name": "Pharmacie de l'Amitié", "shortName": "Amitié", "neighborhood": "Bepanda" },
+    { "id": "ph-13", "name": "Pharmacie Moderne", "shortName": "Moderne", "neighborhood": "Bonanjo" },
+    { "id": "ph-14", "name": "Pharmacie de l'Espoir", "shortName": "Espoir", "neighborhood": "Logpom" },
+    { "id": "ph-15", "name": "Pharmacie de Denver", "shortName": "Denver", "neighborhood": "Bonamoussadi" }
+  ]
+}
